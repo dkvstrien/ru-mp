@@ -19,23 +19,23 @@
     <item>
       <title>Матрица (The Matrix, 1999)</title>
       <description><![CDATA[Фильм братьев Вачовски «Матрица» — русская озвучка. Только диалоги.]]></description>
-      <enclosure url="https://github.com/dkvstrien/ru-mp/releases/download/mx-01/matrix_dialogue.mp3" length="34716987" type="audio/mpeg"/>
+      <enclosure url="https://github.com/dkvstrien/ru-mp/releases/download/mx-01/matrix_dialogue.mp3" length="95329010" type="audio/mpeg"/>
       <guid isPermaLink="true">https://github.com/dkvstrien/ru-mp/releases/download/mx-01/matrix_dialogue.mp3</guid>
       <pubDate>Wed, 31 Mar 1999 00:00:00 +0000</pubDate>
       <itunes:season>1</itunes:season>
       <itunes:episode>2</itunes:episode>
-      <itunes:duration>36:10</itunes:duration>
+      <itunes:duration>99:18</itunes:duration>
     </item>
 
     <item>
       <title>Проект «Мира Белла» (Project Hail Mary, 2021)</title>
       <description><![CDATA[Научно-фантастический роман Энди Вейра «Проект «Мира Белла»» — русская озвучка. Только диалоги.]]></description>
-      <enclosure url="https://github.com/dkvstrien/ru-mp/releases/download/hm-01/hail_mary_dialogue.mp3" length="32807853" type="audio/mpeg"/>
+      <enclosure url="https://github.com/dkvstrien/ru-mp/releases/download/hm-01/hail_mary_dialogue.mp3" length="73872813" type="audio/mpeg"/>
       <guid isPermaLink="true">https://github.com/dkvstrien/ru-mp/releases/download/hm-01/hail_mary_dialogue.mp3</guid>
       <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
-      <itunes:duration>32:30</itunes:duration>
+      <itunes:duration>76:57</itunes:duration>
     </item>
   </channel>
 </rss>
