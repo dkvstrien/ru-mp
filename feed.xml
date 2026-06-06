@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Русские фильмы: практика аудирования</title>
+    <link>https://dkvstrien.github.io/ru-mp</link>
+    <description>Диалоги из фильмов в русской озвучке — для практики аудирования. Dialogue-only movie audio for Russian listening practice.</description>
+    <language>ru</language>
+    <itunes:author>ru-mp</itunes:author>
+    <itunes:category text="Education">
+      <itunes:category text="Language Learning"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <atom:link href="https://dkvstrien.github.io/ru-mp/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Матрица (The Matrix, 1999)</title>
+      <description><![CDATA[Фильм братьев Вачовски «Матрица» — русская озвучка. Только диалоги.]]></description>
+      <enclosure url="https://github.com/dkvstrien/ru-mp/releases/download/mx-01/matrix_dialogue.mp3" length="34716987" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/ru-mp/releases/download/mx-01/matrix_dialogue.mp3</guid>
+      <pubDate>Wed, 31 Mar 1999 00:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>36:10</itunes:duration>
+    </item>
+
+    <item>
+      <title>Проект «Мира Белла» (Project Hail Mary, 2021)</title>
+      <description><![CDATA[Научно-фантастический роман Энди Вейра «Проект «Мира Белла»» — русская озвучка. Только диалоги.]]></description>
+      <enclosure url="https://github.com/dkvstrien/ru-mp/releases/download/hm-01/hail_mary_dialogue.mp3" length="32807853" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/ru-mp/releases/download/hm-01/hail_mary_dialogue.mp3</guid>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>32:30</itunes:duration>
+    </item>
+  </channel>
+</rss>
