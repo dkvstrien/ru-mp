@@ -6,7 +6,7 @@
   <channel>
     <title>Русские фильмы: практика аудирования</title>
     <link>https://dkvstrien.github.io/ru-mp</link>
-    <description>Диалоги из фильмов в русской озвучке — для практики аудирования. Dialogue-only movie audio for Russian listening practice.</description>
+    <description>Русскоязычные фильмы для практики аудирования — полные версии и версии без экшн-сцен. Russian movies for listening practice — full and abridged (dialogue-only) versions.</description>
     <language>ru</language>
     <itunes:author>ru-mp</itunes:author>
     <itunes:category text="Education">
@@ -17,35 +17,68 @@
     <atom:link href="https://dkvstrien.github.io/ru-mp/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Матрица (The Matrix, 1999)</title>
-      <description><![CDATA[Фильм братьев Вачовски «Матрица» — русская озвучка (субтитры VK). Сцены без диалогов удалены.]]></description>
+      <title>Сталкер (Stalker, 1979) — полная версия</title>
+      <description><![CDATA[Фильм Андрея Тарковского «Сталкер» — русская озвучка. Полная версия, 162 минуты. Сцены без диалогов не удалены.]]></description>
+      <enclosure url="https://github.com/dkvstrien/ru-mp/releases/download/st-01/stalker.mp3" length="89441877" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/ru-mp/releases/download/st-01/stalker.mp3</guid>
+      <pubDate>Sun, 01 Apr 1979 00:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>162:02</itunes:duration>
+    </item>
+
+    <item>
+      <title>Брат (Brother, 1997) — полная версия</title>
+      <description><![CDATA[Фильм Алексея Балабанова «Брат» — русская озвучка. Полная версия, 95 минут. Сцены без диалогов не удалены.]]></description>
+      <enclosure url="https://github.com/dkvstrien/ru-mp/releases/download/br-01/brother.mp3" length="76266758" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/ru-mp/releases/download/br-01/brother.mp3</guid>
+      <pubDate>Thu, 17 Apr 1997 00:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>95:27</itunes:duration>
+    </item>
+
+    <item>
+      <title>Матрица (The Matrix, 1999) — abridged</title>
+      <description><![CDATA[Фильм братьев Вачовски «Матрица» — русская озвучка. Сцены без диалогов удалены.]]></description>
       <enclosure url="https://github.com/dkvstrien/ru-mp/releases/download/mx-01/matrix_dialogue.mp3" length="114545937" type="audio/mpeg"/>
       <guid isPermaLink="true">https://github.com/dkvstrien/ru-mp/releases/download/mx-01/matrix_dialogue.mp3</guid>
       <pubDate>Wed, 31 Mar 1999 00:00:00 +0000</pubDate>
       <itunes:season>1</itunes:season>
-      <itunes:episode>2</itunes:episode>
+      <itunes:episode>3</itunes:episode>
       <itunes:duration>119:19</itunes:duration>
     </item>
 
     <item>
-      <title>Бойцовский клуб (Fight Club, 1999)</title>
-      <description><![CDATA[Фильм Дэвида Финчера «Бойцовский клуб» — русская озвучка (субтитры VK). Сцены без диалогов удалены.]]></description>
+      <title>Бойцовский клуб (Fight Club, 1999) — abridged</title>
+      <description><![CDATA[Фильм Дэвида Финчера «Бойцовский клуб» — русская озвучка. Сцены без диалогов удалены.]]></description>
       <enclosure url="https://github.com/dkvstrien/ru-mp/releases/download/fc-01/fight_club_dialogue.mp3" length="117219501" type="audio/mpeg"/>
       <guid isPermaLink="true">https://github.com/dkvstrien/ru-mp/releases/download/fc-01/fight_club_dialogue.mp3</guid>
       <pubDate>Fri, 15 Oct 1999 00:00:00 +0000</pubDate>
       <itunes:season>1</itunes:season>
-      <itunes:episode>3</itunes:episode>
+      <itunes:episode>4</itunes:episode>
       <itunes:duration>122:06</itunes:duration>
     </item>
 
     <item>
-      <title>Проект «Мира Белла» (Project Hail Mary, 2021)</title>
+      <title>Ночной Дозор (Night Watch, 2004) — полная версия</title>
+      <description><![CDATA[Фильм Тимура Бекмамбетова «Ночной Дозор» — русская озвучка. Полная версия, 117 минут. Сцены без диалогов не удалены.]]></description>
+      <enclosure url="https://github.com/dkvstrien/ru-mp/releases/download/nw-01/night_watch.mp3" length="90693645" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/ru-mp/releases/download/nw-01/night_watch.mp3</guid>
+      <pubDate>Fri, 08 Jul 2004 00:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>117:24</itunes:duration>
+    </item>
+
+    <item>
+      <title>Проект «Мира Белла» (Project Hail Mary, 2021) — abridged</title>
       <description><![CDATA[Научно-фантастический роман Энди Вейра «Проект «Мира Белла»» — русская озвучка. Только диалоги.]]></description>
       <enclosure url="https://github.com/dkvstrien/ru-mp/releases/download/hm-01/hail_mary_dialogue.mp3" length="73872813" type="audio/mpeg"/>
       <guid isPermaLink="true">https://github.com/dkvstrien/ru-mp/releases/download/hm-01/hail_mary_dialogue.mp3</guid>
       <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
       <itunes:season>1</itunes:season>
-      <itunes:episode>1</itunes:episode>
+      <itunes:episode>6</itunes:episode>
       <itunes:duration>76:57</itunes:duration>
     </item>
   </channel>
