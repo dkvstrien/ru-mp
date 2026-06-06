@@ -28,6 +28,17 @@
     </item>
 
     <item>
+      <title>Бойцовский клуб (Fight Club, 1999)</title>
+      <description><![CDATA[Фильм Дэвида Финчера «Бойцовский клуб» — русская озвучка (субтитры VK). Сцены без диалогов удалены.]]></description>
+      <enclosure url="https://github.com/dkvstrien/ru-mp/releases/download/fc-01/fight_club_dialogue.mp3" length="117219501" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/ru-mp/releases/download/fc-01/fight_club_dialogue.mp3</guid>
+      <pubDate>Fri, 15 Oct 1999 00:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>122:06</itunes:duration>
+    </item>
+
+    <item>
       <title>Проект «Мира Белла» (Project Hail Mary, 2021)</title>
       <description><![CDATA[Научно-фантастический роман Энди Вейра «Проект «Мира Белла»» — русская озвучка. Только диалоги.]]></description>
       <enclosure url="https://github.com/dkvstrien/ru-mp/releases/download/hm-01/hail_mary_dialogue.mp3" length="73872813" type="audio/mpeg"/>
