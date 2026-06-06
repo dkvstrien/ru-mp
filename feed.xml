@@ -18,13 +18,13 @@
 
     <item>
       <title>Матрица (The Matrix, 1999)</title>
-      <description><![CDATA[Фильм братьев Вачовски «Матрица» — русская озвучка. Только диалоги.]]></description>
-      <enclosure url="https://github.com/dkvstrien/ru-mp/releases/download/mx-01/matrix_dialogue.mp3" length="95329010" type="audio/mpeg"/>
+      <description><![CDATA[Фильм братьев Вачовски «Матрица» — русская озвучка (субтитры VK). Сцены без диалогов удалены.]]></description>
+      <enclosure url="https://github.com/dkvstrien/ru-mp/releases/download/mx-01/matrix_dialogue.mp3" length="114545937" type="audio/mpeg"/>
       <guid isPermaLink="true">https://github.com/dkvstrien/ru-mp/releases/download/mx-01/matrix_dialogue.mp3</guid>
       <pubDate>Wed, 31 Mar 1999 00:00:00 +0000</pubDate>
       <itunes:season>1</itunes:season>
       <itunes:episode>2</itunes:episode>
-      <itunes:duration>99:18</itunes:duration>
+      <itunes:duration>119:19</itunes:duration>
     </item>
 
     <item>
