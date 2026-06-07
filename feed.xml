@@ -39,6 +39,17 @@
     </item>
 
     <item>
+      <title>Принцесса Мононоке (Princess Mononoke, 1997) — полная версия</title>
+      <description><![CDATA[Аниме-фильм студии Ghibli, реж. Хаяо Миядзаки — русская озвучка (дубляж). Полная версия, 133 минуты. Сцены без диалогов не удалены.]]></description>
+      <enclosure url="https://github.com/dkvstrien/ru-mp/releases/download/pm-01/princess_mononoke.mp3" length="64024461" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/dkvstrien/ru-mp/releases/download/pm-01/princess_mononoke.mp3</guid>
+      <pubDate>Sat, 12 Jul 1997 00:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:duration>133:23</itunes:duration>
+    </item>
+
+    <item>
       <title>Матрица (The Matrix, 1999) — abridged</title>
       <description><![CDATA[Фильм братьев Вачовски «Матрица» — русская озвучка. Сцены без диалогов удалены.]]></description>
       <enclosure url="https://github.com/dkvstrien/ru-mp/releases/download/mx-01/matrix_dialogue.mp3" length="114545937" type="audio/mpeg"/>
